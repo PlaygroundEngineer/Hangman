@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+.hangman {
+    display: inline-block;
+}
+
+.word-display {
+    margin: 20px;
+    font-size: 24px;
+}
+
+.keyboard {
+    margin: 20px;
+}
+
+button {
+    font-size: 18px;
+    margin: 5px;
+}
